@@ -7,3 +7,4 @@ document.getElementById("demo").style.display = "none";
 //Hides the element of HTML
 document.getElementById("demo").style.display = "block";
 //Shows hidden elements of HTML
+//You put Javascript code in <script>
